@@ -33,9 +33,4 @@ File I/O (open() with 'a' and 'r' modes)
 os module for path handling
 Basic error handling with conditionals
 
-<img src= "https://drive.google.com/file/d/1pxNKsNA0LaHp6suCPeIiPXp4orh0aCex/view?usp=sharing" width="200" height="200">
 
-*Program produced by:* Nelson-B26
-*email:* nelbalvin2005@gmail.com
-
-<img src=  width="328" height="1021" alt="imagen">
