@@ -1,5 +1,5 @@
 import os
-
+menu = int
 print("Team Daily Status")
 
 #Archive rute
@@ -46,7 +46,7 @@ def get_blocker():
 def main():
     print("=== Daly Blocker sistem Loggin ===\n")
     
-    while True:
+    while menu == int:
         print("\nOptions:")
         print("1. Add daly Blocker")
         print("2. Vew Blockers Saved")
